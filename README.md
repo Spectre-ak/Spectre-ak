@@ -5,6 +5,5 @@ My name is <b>Akash Upadhyay</b> and I'm a student from Siksha 'O' Anusandhan Un
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on headless browsers and an API which will connect frontend clients for real-time communications.
 - 📫 How to reach me: 📧[upadhyayakash2002@gmail.com](https://upadhyayakash2002@gmail.com) and [LinkedIn](https://www.linkedin.com/in/akash-upadhyay-a565271ba/) or make a PR
 
