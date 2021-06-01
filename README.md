@@ -5,5 +5,6 @@ My name is <b>Akash Upadhyay</b> and I'm a student from Siksha 'O' Anusandhan Un
 
 Here are some ideas to get you started:
 -->
+- If you want me to contribute or work on a project contact me
 - 📫 How to reach me: 📧[upadhyayakash2002@gmail.com](https://upadhyayakash2002@gmail.com) and [LinkedIn](https://www.linkedin.com/in/akash-upadhyay-a565271ba/) or make a PR
 
